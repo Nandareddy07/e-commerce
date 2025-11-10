@@ -1,0 +1,202 @@
+[
+  {
+    "id": 1,
+    "name": "Wireless Bluetooth Headphones",
+    "description": "High-quality wireless headphones with noise cancellation and 30-hour battery life.",
+    "price": 99.99,
+    "image": "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?w=300&h=200&fit=crop",
+    "category": "Electronics"
+  },
+  {
+    "id": 2,
+    "name": "Smartphone Case",
+    "description": "Durable protective case for smartphones with anti-slip grip.",
+    "price": 19.99,
+    "image": "https://images.unsplash.com/photo-1565849904461-04a58ad377e0?w=300&h=200&fit=crop",
+    "category": "Accessories"
+  },
+  {
+    "id": 3,
+    "name": "Laptop Stand",
+    "description": "Adjustable aluminum laptop stand for better ergonomics and cooling.",
+    "price": 49.99,
+    "image": "https://images.unsplash.com/photo-1527864550417-7fd91fc51a46?w=300&h=200&fit=crop",
+    "category": "Electronics"
+  },
+  {
+    "id": 4,
+    "name": "Coffee Mug",
+    "description": "Insulated stainless steel coffee mug that keeps drinks hot for hours.",
+    "price": 24.99,
+    "image": "https://images.unsplash.com/photo-1514228742587-6b1558fcf93a?w=300&h=200&fit=crop",
+    "category": "Kitchen"
+  },
+  {
+    "id": 5,
+    "name": "Fitness Tracker",
+    "description": "Advanced fitness tracker with heart rate monitoring and GPS.",
+    "price": 79.99,
+    "image": "https://images.unsplash.com/photo-1544117519-31a4b719223d?w=300&h=200&fit=crop",
+    "category": "Wearables"
+  },
+  {
+    "id": 6,
+    "name": "Wireless Mouse",
+    "description": "Ergonomic wireless mouse with customizable buttons and long battery life.",
+    "price": 29.99,
+    "image": "https://images.unsplash.com/photo-1527814050087-3793815479db?w=300&h=200&fit=crop",
+    "category": "Electronics"
+  },
+  {
+    "id": 7,
+    "name": "Yoga Mat",
+    "description": "Non-slip yoga mat made from eco-friendly materials.",
+    "price": 39.99,
+    "image": "https://images.unsplash.com/photo-1544367567-0f2fcb009e0b?w=300&h=200&fit=crop",
+    "category": "Sports"
+  },
+  {
+    "id": 8,
+    "name": "LED Desk Lamp",
+    "description": "Adjustable LED desk lamp with multiple brightness levels and USB charging.",
+    "price": 34.99,
+    "image": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=300&h=200&fit=crop",
+    "category": "Home"
+  },
+  {
+    "id": 9,
+    "name": "Portable Charger",
+    "description": "High-capacity portable charger for smartphones and tablets.",
+    "price": 39.99,
+    "image": "https://images.unsplash.com/photo-1609594040430-3b9b92a98a35?w=300&h=200&fit=crop",
+    "category": "Electronics"
+  },
+  {
+    "id": 10,
+    "name": "Water Bottle",
+    "description": "Insulated water bottle that keeps drinks cold for 24 hours.",
+    "price": 19.99,
+    "image": "https://images.unsplash.com/photo-1523362628745-0c100150b504?w=300&h=200&fit=crop",
+    "category": "Kitchen"
+  },
+  {
+    "id": 11,
+    "name": "Gaming Keyboard",
+    "description": "Mechanical gaming keyboard with RGB backlighting and programmable keys.",
+    "price": 89.99,
+    "image": "https://images.unsplash.com/photo-1541140532154-b024d705b90a?w=300&h=200&fit=crop",
+    "category": "Electronics"
+  },
+  {
+    "id": 12,
+    "name": "Running Shoes",
+    "description": "Lightweight running shoes with advanced cushioning and breathable mesh.",
+    "price": 129.99,
+    "image": "https://images.unsplash.com/photo-1542291026-7eec264c27ff?w=300&h=200&fit=crop",
+    "category": "Sports"
+  },
+  {
+    "id": 13,
+    "name": "Smart Watch",
+    "description": "Feature-rich smartwatch with health monitoring and notifications.",
+    "price": 199.99,
+    "image": "https://images.unsplash.com/photo-1523275335684-37898b6baf30?w=300&h=200&fit=crop",
+    "category": "Wearables"
+  },
+  {
+    "id": 14,
+    "name": "Blender",
+    "description": "High-power blender perfect for smoothies, soups, and more.",
+    "price": 79.99,
+    "image": "https://images.unsplash.com/photo-1570222094114-d054a817e56b?w=300&h=200&fit=crop",
+    "category": "Kitchen"
+  },
+  {
+    "id": 15,
+    "name": "Desk Chair",
+    "description": "Ergonomic office chair with lumbar support and adjustable height.",
+    "price": 249.99,
+    "image": "https://images.unsplash.com/photo-1586023492125-27b2c045efd7?w=300&h=200&fit=crop",
+    "category": "Home"
+  },
+  {
+    "id": 16,
+    "name": "Wireless Earbuds",
+    "description": "True wireless earbuds with active noise cancellation.",
+    "price": 149.99,
+    "image": "https://images.unsplash.com/photo-1590658268037-6bf12165a8df?w=300&h=200&fit=crop",
+    "category": "Electronics"
+  },
+  {
+    "id": 17,
+    "name": "Dumbbells Set",
+    "description": "Adjustable dumbbells set for home workouts, 5-50 lbs each.",
+    "price": 299.99,
+    "image": "https://images.unsplash.com/photo-1571019613454-1cb2f99b2d8b?w=300&h=200&fit=crop",
+    "category": "Sports"
+  },
+  {
+    "id": 18,
+    "name": "Sunglasses",
+    "description": "Polarized sunglasses with UV protection and stylish design.",
+    "price": 59.99,
+    "image": "https://images.unsplash.com/photo-1572635196237-14b3f281503f?w=300&h=200&fit=crop",
+    "category": "Accessories"
+  },
+  {
+    "id": 19,
+    "name": "Air Fryer",
+    "description": "Healthy cooking with this 4-quart air fryer - fries, roasts, and bakes.",
+    "price": 89.99,
+    "image": "https://images.unsplash.com/photo-1556909114-f6e7ad7d3136?w=300&h=200&fit=crop",
+    "category": "Kitchen"
+  },
+  {
+    "id": 20,
+    "name": "Throw Blanket",
+    "description": "Soft and cozy throw blanket perfect for couch or bed.",
+    "price": 34.99,
+    "image": "https://images.unsplash.com/photo-1586023492125-27b2c045efd7?w=300&h=200&fit=crop",
+    "category": "Home"
+  },
+  {
+    "id": 21,
+    "name": "Tablet",
+    "description": "10-inch tablet with high-resolution display and long battery life.",
+    "price": 349.99,
+    "image": "https://images.unsplash.com/photo-1544244015-0df4b3ffc6b0?w=300&h=200&fit=crop",
+    "category": "Electronics"
+  },
+  {
+    "id": 22,
+    "name": "Yoga Pants",
+    "description": "Comfortable and stretchy yoga pants with moisture-wicking fabric.",
+    "price": 49.99,
+    "image": "https://images.unsplash.com/photo-1506629905607-0b5ab9a9e21a?w=300&h=200&fit=crop",
+    "category": "Sports"
+  },
+  {
+    "id": 23,
+    "name": "Bluetooth Speaker",
+    "description": "Portable Bluetooth speaker with 360-degree sound and waterproof design.",
+    "price": 69.99,
+    "image": "https://images.unsplash.com/photo-1608043152269-423dbba4e7e1?w=300&h=200&fit=crop",
+    "category": "Electronics"
+  },
+  {
+    "id": 24,
+    "name": "Cookware Set",
+    "description": "10-piece stainless steel cookware set with non-stick coating.",
+    "price": 199.99,
+    "image": "https://images.unsplash.com/photo-1556909114-f6e7ad7d3136?w=300&h=200&fit=crop",
+    "category": "Kitchen"
+  },
+  {
+    "id": 25,
+    "name": "Wall Art",
+    "description": "Modern abstract wall art print, perfect for home decoration.",
+    "price": 79.99,
+    "image": "https://images.unsplash.com/photo-1578662996442-48f60103fc96?w=300&h=200&fit=crop",
+    "category": "Home"
+  }
+]

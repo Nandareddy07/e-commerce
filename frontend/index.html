@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>E-Commerce Store</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <div class="container">
+            <h1>E-Commerce Store</h1>
+            <nav>
+                <button id="home-btn">Home</button>
+                <button id="cart-btn">Cart (<span id="cart-count">0</span>)</button>
+            </nav>
+        </div>
+    </header>
+
+    <main class="container">
+        <div class="filters">
+            <select id="category-filter">
+                <option value="">All Categories</option>
+                <option value="Electronics">Electronics</option>
+                <option value="Accessories">Accessories</option>
+                <option value="Kitchen">Kitchen</option>
+                <option value="Sports">Sports</option>
+                <option value="Wearables">Wearables</option>
+                <option value="Home">Home</option>
+            </select>
+        </div>
+        <div id="product-list" class="product-grid">
+            <!-- Products will be loaded here -->
+        </div>
+
+        <div id="product-detail" class="product-detail hidden">
+            <!-- Product details will be shown here -->
+        </div>
+
+        <div id="cart-view" class="cart-view hidden">
+            <h2>Your Cart</h2>
+            <div id="cart-items">
+                <!-- Cart items will be loaded here -->
+            </div>
+            <div id="cart-total">
+                <p>Total: $<span id="total-price">0.00</span></p>
+                <button id="checkout-btn">Checkout</button>
+            </div>
+        </div>
+    </main>
+
+    <script src="script.js"></script>
+</body>
+</html>
